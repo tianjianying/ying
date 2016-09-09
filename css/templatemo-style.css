@@ -211,13 +211,13 @@ button:focus { outline: none; }
 
 /* Gallery */
 .tm-img-gallery {
-	max-width: 860px;
+	max-width: 100%;
 	margin: 10px auto 0;
 	width: 100%;		
 }
 
 .tm-img {
-  	width: 280px;
+  	width: 100%;
   	height: auto;
   	border: 10px solid #ffffff;
   	margin: 0 auto 10px;
